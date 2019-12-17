@@ -1,5 +1,5 @@
-# Advance_Shopping_cart
-Advanced Shopping Cart Tutorial With Php and MySqli Database
+# Western Graphics cart
+Shopping Cart in Php and MySqli Database
 
 Before you execute this project make sure you insert values in the database.
 to insert values in the database just type this command.
